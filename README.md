@@ -47,7 +47,7 @@ The heart of this application lies in its algorithm, which makes data-driven dec
 7. Loan Decision: Users receive instant feedback on their eligibility, loan amount, repayment terms, and risk score.
 
 ## Admin Panel:
-  where the admin can able to view the data of the client and export their data.
+  where the admin can able to view the data of the accountant and export their data.
 
 ## Note
 The success of this application depends on the quality and creativity of the algorithm used for loan eligibility assessment. A well-thought-out algorithm will greatly enhance the application's effectiveness.
